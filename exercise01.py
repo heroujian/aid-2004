@@ -8,6 +8,7 @@
  word varchar(30),
  mean varchar(512));
  将单词本中单词插入到这个数据表
+ 大家好我是git
 """
 
 import pymysql
